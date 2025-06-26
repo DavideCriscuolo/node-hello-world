@@ -17,5 +17,8 @@
     "url": "https://github.com/DavideCriscuolo/node-hello-world/issues"
   },
   "homepage": "https://github.com/DavideCriscuolo/node-hello-world#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.5.0"
+  }
 }
